@@ -23,6 +23,7 @@ nav {
     list-style: none;
     display: flex;
     gap: 30px;
+    display: flex;
 }
 
 .nav-links li a {
